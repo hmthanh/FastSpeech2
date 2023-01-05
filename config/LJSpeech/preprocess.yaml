@@ -3,7 +3,7 @@ dataset: "LJSpeech"
 path:
   corpus_path: "/kaggle/input/the-lj-speech-dataset/LJSpeech-1.1"
   lexicon_path: "lexicon/librispeech-lexicon.txt"
-  raw_path: "./raw_data/LJSpeech"
+  raw_path: "/kaggle/input/the-lj-speech-dataset/LJSpeech-1.1/wavs"
   preprocessed_path: "./preprocessed_data/LJSpeech"
 
 preprocessing:
